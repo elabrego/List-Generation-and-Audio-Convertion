@@ -224,8 +224,9 @@ python convert_text_to_audio.py
 ### Text File
 
 Item listing for store 1:
-Need 10 items of type 123 ABC
-Need 5 items of type 456 DEF
+
+- Need 10 items of type 123 ABC
+- Need 5 items of type 456 DEF
 
 ## Image
 
