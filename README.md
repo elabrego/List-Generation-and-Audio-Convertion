@@ -220,6 +220,11 @@ python convert_text_to_audio.py
 | 1         | 456         | ITEM 456  | 5        |
 | 2         | 789         | ITEM 789  | 7        |
 | 2         | 101         | ITEM 101  | 3        |
+| 3         | 21         | ITEM 21  | 5       |
+| 3         | 15         | ITEM 15  | 5        |
+| 3         | 14         | ITEM 14  | 5        |
+| 3         | 13         | ITEM 13  | 2        |
+| 3         | 11         | ITEM 11  | 2        |
 
 ### Text File
 
@@ -229,6 +234,8 @@ Item listing for store 1:
 - Need 5 items of type 456 DEF
 
 ## Image
+
+![Example Listing for Store 3](tienda_3_example.png)
 
 ## Audio
 
