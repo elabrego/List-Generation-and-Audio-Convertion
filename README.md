@@ -210,12 +210,18 @@ python convert_text_to_audio.py
 
 ## Example Outputs
 
-D_TIENDA	ID_ARTICULO	ART	CANTIDAD
-1	123	ABC	10
-1	456	DEF	5
-2	789	GHI	7
-2	101	JKL	3
-Text File
+## Example Outputs
+
+### Stock Data (Excel)
+
+| ID_TIENDA | ID_ARTICULO | ART  | CANTIDAD |
+|-----------|-------------|------|----------|
+| 1         | 123         | ABC  | 10       |
+| 1         | 456         | DEF  | 5        |
+| 2         | 789         | GHI  | 7        |
+| 2         | 101         | JKL  | 3        |
+
+### Text File
 
 Item listing for store 1:
 Need 10 items of type 123 ABC
