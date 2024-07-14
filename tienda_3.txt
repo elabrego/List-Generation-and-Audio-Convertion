@@ -1,0 +1,6 @@
+Listado de articulos para la tienda 3 :
+ Se necesitan 2 articulos del tipo 11 ITEM 11
+Se necesitan 2 articulos del tipo 13 ITEM 13
+Se necesitan 5 articulos del tipo 14 ITEM 14
+Se necesitan 5 articulos del tipo 15 ITEM 15
+Se necesitan 5 articulos del tipo 21 ITEM 21
