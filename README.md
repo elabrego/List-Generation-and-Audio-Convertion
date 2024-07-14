@@ -216,10 +216,10 @@ python convert_text_to_audio.py
 
 | ID_TIENDA | ID_ARTICULO | ART  | CANTIDAD |
 |-----------|-------------|------|----------|
-| 1         | 123         | ABC  | 10       |
-| 1         | 456         | DEF  | 5        |
-| 2         | 789         | GHI  | 7        |
-| 2         | 101         | JKL  | 3        |
+| 1         | 123         | ITEM 123  | 10       |
+| 1         | 456         | ITEM 456  | 5        |
+| 2         | 789         | ITEM 789  | 7        |
+| 2         | 101         | ITEM 101  | 3        |
 
 ### Text File
 
