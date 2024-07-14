@@ -210,8 +210,6 @@ python HERRRAMIENTA_AUDIO.py
 
 ## Example Outputs
 
-## Example Outputs
-
 ### Stock Data (Excel)
 
 | ID_TIENDA | ID_ARTICULO | ART  | CANTIDAD |
