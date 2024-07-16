@@ -239,7 +239,7 @@ Item listing for store 1:
 
 The audio file corresponding to the above text file will be generated and saved in the specified directory.
 
-![Ejemplo de archivo de audio](tienda_3_example.mp3)
+![Audio Example](tienda_3_example.mp3)
 
 ## Contribution
 
