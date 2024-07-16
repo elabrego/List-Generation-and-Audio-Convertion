@@ -4,10 +4,10 @@ import time
 import requests
 
 # Directorio donde se encuentran los archivos de texto
-directorio_texto = 'C:/Users/EUCLID/Desktop/Directorio/62_Generacion_Pedidos/archivos_txt/'
+directorio_texto = 'path/to/archivos_txt/'
 
 # Directorio donde se guardarán los archivos de audio
-directorio_audio = 'C:/Users/EUCLID/Desktop/Directorio/62_Generacion_Pedidos/archivos_audio/'
+directorio_audio = 'path/to/archivos_audio/'
 
 # Verifica si el directorio para los archivos de audio existe, si no, créalo
 if not os.path.exists(directorio_audio):
