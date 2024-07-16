@@ -5,7 +5,7 @@ library(ggplot2)
 library(writexl)
 
 # Leer el archivo de Excel
-SURTIDO <- read_excel("C:/Users/EUCLID/Desktop/Directorio/62_Generacion_Pedidos/PRUEBA_SURTIDO.xlsx")
+SURTIDO <- read_excel("path/to/PRUEBA_SURTIDO.xlsx")
 
 # Verificar los nombres de las columnas
 print(names(SURTIDO))
